@@ -10,7 +10,8 @@ void main() {
     System.out.println("2    X-salada           R$ 4.50");
     System.out.println("3    X-Bacon            R$ 5.00");
     System.out.println("4    Torrada Simples    R$ 2.00");
-    System.out.println("5    Refrigerante       R$ 1.50\n");
+    System.out.println("5    Refrigerante       R$ 1.50");
+    System.out.println("5    X-Tudo       R$ 10.50\n");
 
     System.out.println("Escolha o codigo do lanche: ");
     cod = sc.nextInt();
